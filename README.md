@@ -11,7 +11,9 @@ This is a Streamlit application for stock prediction and analysis. The app allow
 
 ## Installation
 
-To run this application, you need to have Python 3.11.5 installed. Follow the steps below to set up and run the app.
+To run this application,
+you need to have Python 3.11.5 installed. 
+Follow the steps below to set up and run the app.
 
 ### Clone the Repository
 
